@@ -1,0 +1,16 @@
+{
+  "name": "a1_aqa",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Auto QA fraemwork on cypress + js",
+  "author": "OLga Dl",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/volhadl/a1_aqa"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.8.2"
+  }
+}
